@@ -9,7 +9,7 @@ package com.xxx.thread;
  *
  * 1、创建：继承Thread+重写run
  *    启动：创建子类对象+start
- * @author Administrator
+ * @author WXJ
  */
 public class NewClass extends Thread{
     public  void run(){
